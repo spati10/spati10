@@ -35,7 +35,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [AI Chatbot](https://github.com/spati10/AI-CHATBOT1) | Conversational AI Chatbot | Python, OpenAI API |
+| [SHL Assessment Recommendation Engine]([https://github.com/spati10/AI-CHATBOT1](https://github.com/spati10/SHL_Assessment-Recommendation-Engine)) | Assesment Recommendation System | Python, streamlit, html |
 | [Rental-I](https://github.com/spati10/Rental-i.git) | Smart house rental platform | HTML, CSS, JS |
 | [Dashboard - Ticket Buying](https://github.com/spati10/Dashboard-Ticket-Buying.-) | Event ticket dashboard system | HTML, CSS, JS |
 | [Face Identification Model](https://github.com/spati10/face-identification-model) | Attendance tracker using face recognition | Python, API |
