@@ -35,7 +35,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [SHL Assessment Recommendation Engine]((https://github.com/spati10/SHL_Assessment-Recommendation-Engine))| Assesment Recommendation System | Python, streamlit, html |
+| [SHL Assessment Recommendation Engine](https://github.com/spati10/SHL_Assessment-Recommendation-Engine) | Assesment Recommendation System | Python, streamlit, html |
 | [Rental-I](https://github.com/spati10/Rental-i.git) | Smart house rental platform | HTML, CSS, JS |
 | [Dashboard - Ticket Buying](https://github.com/spati10/Dashboard-Ticket-Buying.-) | Event ticket dashboard system | HTML, CSS, JS |
 | [Face Identification Model](https://github.com/spati10/face-identification-model) | Attendance tracker using face recognition | Python, API |
