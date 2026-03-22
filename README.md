@@ -52,7 +52,7 @@
 | [🤖 AI Agents - Aden Hive](https://github.com/spati10/-Agents_AdenHive) | Web scraper & resume analyzer agents built with self-evolving AI framework | Python, Hive, GraphSpec, LLM |
 | [🧠 SHL Assessment Recommendation Engine](https://github.com/spati10/SHL_Assessment-Recommendation-Engine) | AI-powered assessment recommendation system | Python, Streamlit, HTML |
 | [👤 Face Identification Model](https://github.com/spati10/face-identification-model) | Attendance tracker using face recognition | Python, API |
-| [🤖ThoughtField]((https://github.com/spati10/ThoughtField)) | ThoughtField is an open-source social simulation engine built on the Stanford Generative Agents architecture. | Python,TS,CSS, GPT 4o |
+| [🤖ThoughtField](https://github.com/spati10/ThoughtField) | ThoughtField is an open-source social simulation engine built on the Stanford Generative Agents architecture. | Python,TS,CSS |
 | [🎫 Dashboard - Ticket Buying](https://github.com/spati10/Dashboard-Ticket-Buying.-) | Event ticket dashboard system | HTML, CSS, JS |
 
 ---
