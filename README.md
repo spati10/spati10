@@ -1,5 +1,5 @@
 # Hey 👋, I'm Sourav Pati
-🤖 AI Agent Developer & Full-Stack Engineer
+🤖 AI Agent Developer & Backend Engineer
 💻 Currently working on: [AI Agents with Aden Hive Framework](https://github.com/spati10/-Agents_AdenHive)
 📫 Reach me at: **patisourav2022@gmail.com**
 
