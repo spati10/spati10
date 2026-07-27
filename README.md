@@ -3,6 +3,8 @@
 
 📫 Reach me at: **patisourav2022@gmail.com**
 
+##Currently building - https://github.com/spati10/Nexus_API_GATEWAY
+It's an api gatewy that sits between user and the system.
 ---
 
 ### 🧠 About Me
