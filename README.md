@@ -135,12 +135,28 @@ Contributor to the **Aden Hive Framework** (YC-backed, 8.5k+ GitHub stars), buil
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=3" width="100%" alt=""/>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spati10/spati10/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spati10/spati10/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/spati10/spati10/output/github-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=3" width="100%" alt=""/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=spati10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF2E97&text_color=ffffff" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spati10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff" alt="Top languages"/>
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" alt="Most used languages"/>
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" alt="Productive time"/>
 
 <br/><br/>
 
